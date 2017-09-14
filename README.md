@@ -1,5 +1,7 @@
-# NYC Taxi Trip Duration Kaggle Competition - Capstone Project by Will Campbell
+# NYC Taxi Trip Duration Kaggle Competition
 Capstone Project for General Assembly Data Science Immersive
+
+by Will Campbell
 
 Recommended Order of Notebooks:
 
